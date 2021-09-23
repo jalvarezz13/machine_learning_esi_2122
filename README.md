@@ -7,7 +7,7 @@ This repository is to work on a fourth year Computer Engineering subject called 
 This proyect will have all the code refer to the subject.
 
 ## Languages
-![Python Logo](/images/logo.png) Python 3.9
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="15" height="15"> Python 3.9
 
 ## Autors
 Sergio Martin-Delgado Gutierrez
